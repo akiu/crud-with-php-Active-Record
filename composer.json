@@ -1,0 +1,14 @@
+{
+    "name": "akiujih/compo",
+    "authors": [
+        {
+            "name": "akiu",
+            "email": "ricky3andika@gmail.com"
+        }
+    ],
+    "require": {
+	
+	    "php-activerecord/php-activerecord":"dev-master"					
+
+	}
+}
